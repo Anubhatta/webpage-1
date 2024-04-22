@@ -1,0 +1,11 @@
+a=30
+b=20
+sum=a+b
+sub=a-b
+mult=a*b
+div=a/b
+print(sum)
+print(sub)
+print(mult)
+print(div)
+print(sum,sub)
